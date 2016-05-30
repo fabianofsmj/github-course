@@ -10,3 +10,4 @@ Botão de doação do PayPal
 
 Outros cursos em  : [Fogões e cia](http://fogoesecia.com.br)
 
+Curso finalizado
